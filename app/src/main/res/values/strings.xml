@@ -15,5 +15,5 @@
   -->
 <resources>
     <string name="app_name">Project Setup</string>
-    <string name="new_text">New Text!</string>
+    <string name="new_text">Different Text!</string>
 </resources>
